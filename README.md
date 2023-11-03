@@ -1,4 +1,4 @@
-# Correlation and regression for data analysis
+[# Correlation and regression for data analysis
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -61,3 +61,4 @@ plt.legend(['Regression Line','Data points'])
 # Result
 
 The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
+](https://github.com/ramjan1729/Correlation_Regression)https://github.com/ramjan1729/Correlation_Regression
